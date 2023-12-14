@@ -1,0 +1,6 @@
+{
+    "file_name" : "test_data",
+    "data_paths": "../data",
+    "save_path": "../conf/FCattention模型结果",
+    "model_dict_name": "TFSSN_model.pth"
+}
